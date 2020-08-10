@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/qtv-music/static/css/main.2f212ab0.chunk.css",
+    "main.js": "/qtv-music/static/js/main.c7bce4e9.chunk.js",
+    "main.js.map": "/qtv-music/static/js/main.c7bce4e9.chunk.js.map",
+    "runtime-main.js": "/qtv-music/static/js/runtime-main.2fb9a8dc.js",
+    "runtime-main.js.map": "/qtv-music/static/js/runtime-main.2fb9a8dc.js.map",
+    "static/css/2.63d4361e.chunk.css": "/qtv-music/static/css/2.63d4361e.chunk.css",
+    "static/js/2.66167d77.chunk.js": "/qtv-music/static/js/2.66167d77.chunk.js",
+    "static/js/2.66167d77.chunk.js.map": "/qtv-music/static/js/2.66167d77.chunk.js.map",
+    "index.html": "/qtv-music/index.html",
+    "precache-manifest.67492c47ec4615e8ecd7fc84f11a1969.js": "/qtv-music/precache-manifest.67492c47ec4615e8ecd7fc84f11a1969.js",
+    "service-worker.js": "/qtv-music/service-worker.js",
+    "static/css/2.63d4361e.chunk.css.map": "/qtv-music/static/css/2.63d4361e.chunk.css.map",
+    "static/css/main.2f212ab0.chunk.css.map": "/qtv-music/static/css/main.2f212ab0.chunk.css.map",
+    "static/js/2.66167d77.chunk.js.LICENSE.txt": "/qtv-music/static/js/2.66167d77.chunk.js.LICENSE.txt",
+    "static/media/Chester-Bennington.jpg": "/qtv-music/static/media/Chester-Bennington.d4f74f6d.jpg",
+    "static/media/banner.jpg": "/qtv-music/static/media/banner.27df0dfb.jpg",
+    "static/media/banner2.jpg": "/qtv-music/static/media/banner2.ba785278.jpg",
+    "static/media/banner3.jpg": "/qtv-music/static/media/banner3.c12aebd8.jpg",
+    "static/media/broken-guitar.png": "/qtv-music/static/media/broken-guitar.731b0b12.png",
+    "static/media/buc-tuong-1.jpg": "/qtv-music/static/media/buc-tuong-1.5bba35bc.jpg",
+    "static/media/dragonforce-1.jpg": "/qtv-music/static/media/dragonforce-1.6cfa1579.jpg",
+    "static/media/finland.jpeg": "/qtv-music/static/media/finland.45fff47f.jpeg",
+    "static/media/hac-san-1.jpg": "/qtv-music/static/media/hac-san-1.93540fc5.jpg",
+    "static/media/linkin-park.jpg": "/qtv-music/static/media/linkin-park.078bba54.jpg",
+    "static/media/loading-icon.gif": "/qtv-music/static/media/loading-icon.104b1554.gif",
+    "static/media/manager.svg": "/qtv-music/static/media/manager.71626c86.svg",
+    "static/media/metallica.jpg": "/qtv-music/static/media/metallica.59a367c9.jpg",
+    "static/media/night-wish-1.jpg": "/qtv-music/static/media/night-wish-1.ef99d9c7.jpg",
+    "static/media/thrash-metal.jpg": "/qtv-music/static/media/thrash-metal.7a461344.jpg",
+    "static/media/unlimited.jpg": "/qtv-music/static/media/unlimited.dfea5317.jpg",
+    "static/media/up-arrow.svg": "/qtv-music/static/media/up-arrow.c99d8564.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fb9a8dc.js",
+    "static/css/2.63d4361e.chunk.css",
+    "static/js/2.66167d77.chunk.js",
+    "static/css/main.2f212ab0.chunk.css",
+    "static/js/main.c7bce4e9.chunk.js"
+  ]
+}
